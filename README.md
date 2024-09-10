@@ -6,3 +6,5 @@ See Surface Temperature (SST) data are mostly acquired by means of satellites de
 We focus on a region of the north adriatic sea. Data are taken from the MODIS dataset; we use the nigthly data collected by the Aqua satellite.
 
 Instructions for downloading data and additional information about the task and the evaluation metrics are contained in the enclosed notebook.
+
+My main implementation is in the main_unet.ipynb notebook. I tried also implementing a DCGAN but without the results I expected.
